@@ -80,4 +80,5 @@ div.name {
   overflow-wrap: break-word;
   word-wrap: break-word;
   color: #2d3c49;
+  text-decoration: none;
 }
