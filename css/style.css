@@ -54,7 +54,7 @@ div.name {
 }
 
 .single-project {
-  width: 29.8%;
+  min-width: 29.8%;
   flex-grow: 1;
   margin-right: 20px;
   text-align: center;
