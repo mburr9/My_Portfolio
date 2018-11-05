@@ -35,9 +35,14 @@
 }
 
 @media screen and (min-width: 850px) {
-  header, main {
+  header, .hero {
     max-width: 850px;
     margin-left: auto;
     margin-right: auto;
+  }
+  .featured-work {
+      max-width: 1000px;
+      margin-right: auto;
+      margin-left: auto;
   }
 }
